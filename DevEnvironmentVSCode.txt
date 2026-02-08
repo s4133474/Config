@@ -14,3 +14,6 @@ https://git-scm.com/install/windows
 2. Install Extensions in VSCode
 *Pylance
 *CodeRunner
+
+
+#testing git account
