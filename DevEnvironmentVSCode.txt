@@ -18,12 +18,17 @@ https://git-scm.com/install/windows
 
 VS Code Settings
 
+VS Code Settings
+
 Text editor > Font
+(can change if you like)
+
+Text editor > Formatting
 Check Format on Paste
 Check Format on Save
 
 Text Editor > Files
 Associations:
-Add > Item: *.inc	Value: .php
-Add > Item: *.template	Value: .json
+Add > Item: *.inc Value: .php
+Add > Item: *.template  Value: .json
 
